@@ -1,0 +1,1 @@
+Took the NotePad sample application from AOSP, removed live folders and added Dropbox integration using the Dropbox API. It also works in offline mode (without network access). Only supports simple text notes for now.
